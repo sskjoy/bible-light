@@ -9,14 +9,14 @@
 				<div class="header_right">
 					<div
 						class="common_protocol cursor"
-						@click="handleOpen('//sskjoy.github.io/bible-library/classify/hoyBibleLght/privacy1.html')"
+						@click="handleOpen('//sskjoy.github.io/bible-library/privacy.html')"
 					>
 						Privacy
 					</div>
 					<div class="common_line"></div>
 					<div
 						class="common_protocol cursor"
-						@click="handleOpen('//sskjoy.github.io/bible-library/classify/hoyBibleLghtterms1.html')"
+						@click="handleOpen('//sskjoy.github.io/bible-library/terms.html')"
 					>
 						Terms
 					</div>
@@ -78,14 +78,14 @@
 				<div class="bottom_right">
 					<div
 						class="common_protocol cursor"
-						@click="handleOpen('//sskjoy.github.io/bible-library/classify/hoyBibleLghtprivacy1.html')"
+						@click="handleOpen('//sskjoy.github.io/bible-library/privacy.html')"
 					>
 						Privacy
 					</div>
 					<div class="common_line"></div>
 					<div
 						class="common_protocol cursor"
-						@click="handleOpen('//sskjoy.github.io/bible-library/classify/hoyBibleLghtterms1.html')"
+						@click="handleOpen('//sskjoy.github.io/bible-library/terms.html')"
 					>
 						Terms
 					</div>
