@@ -106,10 +106,6 @@
 </template>
 
 <script lang="ts" setup>
-import { ref } from 'vue';
-const list = [{
-    head: 'Quiz'
-}]
 function handleOpen(path: string) {
 	window.open(path);
 }
