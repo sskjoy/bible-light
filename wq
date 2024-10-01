@@ -1,0 +1,13 @@
+Revert "Update app-ads.txt"
+
+This reverts commit 9ecba820eae58fa824dfac730553f0d92c275573.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   app-ads.txt
+#
